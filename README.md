@@ -1,4 +1,4 @@
-# FightyDot
+# FightyDot -Strategy Board Game
 
 Features:
 * Local multiplayer: Play with your friend even if you only have one iPhone!
@@ -24,7 +24,7 @@ The first player to be reduced to 2 pieces loses. Good luck!
 
 # Contact Us
 
-If you have any questions or suggestions about FightyDot, do not hesitate to contact us.
+If you have any questions or suggestions about our app, do not hesitate to contact us.
 
 Email: genpbt@163.com
 
